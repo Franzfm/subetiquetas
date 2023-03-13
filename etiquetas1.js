@@ -1,4 +1,4 @@
-<script src="etiquetas.js">
+<script>
 // Seleccionar todas las etiquetas <span>
 var spans = document.querySelectorAll("span");
 
